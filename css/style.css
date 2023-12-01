@@ -11,3 +11,13 @@
 /* 
     GENERAL
 */
+img{
+    width: 100%;
+}
+/* 
+    Header
+*/
+
+.img-container{
+    width: 100px;
+}
